@@ -61,17 +61,17 @@ The Five Principles of AI Weirdness:
  + cybernetics
  + &c.
    
+* An aside: everything is numbers
+
+ + Machine learning is an incredible hammer
+ + Using it means getting better at turning things into nails
+ + Much of machine learning is about taking data and turning it into numbers
 * A super aside: computation has limits
 
  + Computers can't do everything
  + Computers can't do most things, in a technical sense
  + Cardinality
  + Finite time, finite data, finite instructions
-* An aside: everything is numbers
-
- + Machine learning is an incredible hammer
- + Using it means getting better at turning things into nails
- + Much of machine learning is about taking data and turning it into numbers
 * Phantasmal Media
 
 His personal journey towards computation, art, and the importance of bringing subjectivity into computation
